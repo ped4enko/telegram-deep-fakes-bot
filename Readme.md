@@ -1,5 +1,6 @@
 # telegram-deep-fakes-bot
-This bot uses the first-order-model https://github.com/AliaksandrSiarohin/first-order-model to generate video note deep fakes
+[About Telegram Deepfake Bots](https://googelecom.net/deepfake-bots-on-telegram/)
+[ReviewBest 40 Deepnude & Deepfake Telegram bots](https://nudify.tech/deepfake-bots-on-telegram-what-is-it-and-how-it-work/)
 
 ![Imgur](https://i.imgur.com/gjzq5Nb.png)
 
